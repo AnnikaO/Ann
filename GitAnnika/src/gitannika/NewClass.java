@@ -12,5 +12,6 @@ package gitannika;
 public class NewClass {
     int i = 3;
     String s ="Hej";
+    char c = 'c';
     
 }
