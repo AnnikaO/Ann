@@ -10,5 +10,6 @@ package gitannika;
  * @author User
  */
 public class NewClass {
+    int i = 3;
     
 }
