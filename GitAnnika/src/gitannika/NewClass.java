@@ -10,8 +10,7 @@ package gitannika;
  * @author User
  */
 public class NewClass {
-    int y = 6;
     int i = 3;
-    String e = "H";
+    String s ="Hej";
     
 }

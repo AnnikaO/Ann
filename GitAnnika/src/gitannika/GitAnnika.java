@@ -16,6 +16,7 @@ public class GitAnnika {
      */
     public static void main(String[] args) {
         System.out.println("Trevlig helg");
+        System.out.println("??????");
         
                 
     }
